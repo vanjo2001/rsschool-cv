@@ -9,7 +9,7 @@
 Summary
 
 - [x] My goal is learning `Obj C` to have more knowledge how it works in the deep
-- [x] Foremost I would to create custom views with wonderful animation.
+- [x] Foremost I would to create custom views with wonderful animation
 
 ### In conluding I would like propose my candidature because I'm self-learning Junior and all stack of technology I ready result by myself! At least I could use some experience from Middles and Seniores)
 
